@@ -1,0 +1,25 @@
+{
+  "name": "d2rassistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "node watch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToWelie89/D2RAssistant.git"
+  },
+  "author": "ToWelie89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToWelie89/D2RAssistant/issues"
+  },
+  "homepage": "https://github.com/ToWelie89/D2RAssistant#readme",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "less": "^4.2.0",
+    "node-watch": "^0.7.4"
+  }
+}
